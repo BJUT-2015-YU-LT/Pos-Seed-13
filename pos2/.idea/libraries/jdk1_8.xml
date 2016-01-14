@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="jdk1.8">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../jdk1.8.0_45" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../jdk1.8.0_45/lib/com/dom4j-1.6.1/docs/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../jdk1.8.0_45/lib/com/dom4j-1.6.1/docs/benchmarks/xpath" />
+      <root url="file://$PROJECT_DIR$/../jdk1.8.0_45/lib/com/dom4j-1.6.1/src/java" />
+      <root url="file://$PROJECT_DIR$/../jdk1.8.0_45/lib/com/dom4j-1.6.1/src/samples" />
+      <root url="file://$PROJECT_DIR$/../jdk1.8.0_45/lib/com/dom4j-1.6.1/src/test" />
+      <root url="file://$PROJECT_DIR$/../jdk1.8.0_45/lib/com/dom4j-1.6.1/xdocs/benchmarks/xpath" />
+      <root url="file://$PROJECT_DIR$/../jdk1.8.0_45" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../jdk1.8.0_45" recursive="false" type="SOURCES" />
+  </library>
+</component>
